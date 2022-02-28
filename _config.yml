@@ -1,0 +1,6 @@
+# Deployment
+## Docs: https://hexo.io/docs/one-command-deployment
+deploy:
+  type: git
+  repository: git@github.com:tommy60703/tommy60703.github.io.git
+  branch: gh-pages
